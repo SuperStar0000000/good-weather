@@ -1,7 +1,3 @@
-[![Build Status](https://travis-ci.org/qqq3/good-weather.svg?branch=master)](https://travis-ci.org/qqq3/good-weather)
-[![Release](https://img.shields.io/github/release/qqq3/good-weather.svg)](https://github.com/qqq3/good-weather/releases)
-[![License](https://img.shields.io/badge/license-GNU_GPLv3-orange.svg)](https://raw.githubusercontent.com/qqq3/good-weather/HEAD/LICENSE)
-
 # Good Weather
 Open source weather app for Android.
 
@@ -30,23 +26,12 @@ Open source weather app for Android.
 # Translations
 [https://hosted.weblate.org/projects/good-weather/strings/](https://hosted.weblate.org/projects/good-weather/strings/)
 
-The strings are translated using [Weblate](https://weblate.org/en/). Follow
-[these instructions](https://hosted.weblate.org/engage/good-weather/) if you would like to contribute 
-[here](https://hosted.weblate.org/projects/good-weather/strings/).
-
-## Donations
-If you would like to help, you can donate Bitcoin on ```1FV8m1MKqZ9ZKB8YNwpsjsuubHTznJSiT8``` address.
-Thanks!
-
-## List of contributors
-[berian](https://github.com/beriain), [mahula](https://github.com/mahula), [naofum](https://github.com/naofum), 
-[thuryn](https://github.com/thuryn), [monolifed](https://github.com/monolifed), [marcoM32](https://github.com/marcoM32),
-[Zagur](https://github.com/Zagur)
 
 ## License
 ```
 Good Weather. App displays weather information.
-Copyright (C) 2015-2017 Eugene Kislyakov <aiqcms@gmail.com>
+Copyright (C) 2015-2017 Jacob Mirelez
+
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -59,5 +44,5 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+along with this program.  
 ```
